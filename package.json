@@ -1,0 +1,17 @@
+{
+  "name": "projeto-minifilme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "d": "npx tsx watch src/server.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.12.12",
+    "tsx": "^4.10.2",
+    "typescript": "^5.4.5"
+  }
+}
